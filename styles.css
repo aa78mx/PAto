@@ -1,0 +1,119 @@
+body {
+background-position: right top;
+margin:0px;
+padding:0px;
+background-color: #191F24;
+float:right;
+text-align:right;
+background-image:url(bg.jpg);
+background-repeat:repeat-y
+}
+body,p,td,span,div,ul,li {
+font-family:verdana,arial,tahoma,serif,sans;
+test-decoration:none;
+color:#000000;
+}
+img,table { border:0px }
+#wrapper { 
+width:900px;
+margin:0 auto;
+float:right;
+text-align:right;
+}
+#menuwrapper {
+margin:0 auto;
+float:right;
+text-align:right;
+background-position: right top;
+width:177px;
+height:380px;
+padding:0px;
+text-align:right;
+float:left;
+padding-top:20px;
+position:relative;
+background-image:url(headblock.jpg);
+background-repeat:no-repeat;
+}
+#rightheader {
+background-position: right top;
+width:723px;
+height:380px;
+padding:0px;
+text-align:right;
+background-image:url('0H0V1.jpg');
+background-repeat: no repeat;
+float:left;
+position:relative;
+}
+#contents {
+position:relative;
+float:right;
+text-align:left;
+width:670px;
+padding-right:10px;
+font-family:arial,tahoma,serif,sans;
+color:#000000;
+font-weight:normal;
+font-size:12px;
+line-height:150%;
+letter-spacing:150%;
+}
+
+#contents a:link, #contents a:visited {
+font-family:arial,tahoma,serif,sans;
+color:#800000;
+font-weight:normal;
+font-size:12px;
+text-decoration:none;
+}
+
+#contents a:hover {
+font-family:arial,tahoma,serif,sans;
+color:#FF0000;
+font-weight:normal;
+font-size:12px;
+text-decoration:none;
+}
+
+.navbot {
+background-position: right top;
+height:25px;
+padding:0px;
+background-image:url(navbot.gif);
+background-repeat: no repeat;
+}
+.bottomnavi {
+text-align:center;
+width:100%;
+font-size:11px;
+color:#000000;
+padding-top:2em;
+padding-left:0;
+padding-right:0;
+padding-bottom:10px;
+position:relative;
+float:center;
+font-weight:normal;
+}
+.footer {
+text-align:center;
+width:100%;
+font-size:11px;
+color:#000000;
+padding-top:0;
+padding-left:0;
+padding-right:0;
+padding-bottom:10px;
+position:relative;
+float:center;
+font-weight:normal;
+}
+.title1 {
+padding-top:10px;
+padding-bottom:10px;
+font-weight:bold;
+text-decoration:underline;
+color:#000000;
+font-size:14px;
+}
